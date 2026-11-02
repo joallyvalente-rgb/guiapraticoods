@@ -1,0 +1,6 @@
+{
+  "name": "ODS 2030 - Guia Interativo dos Objetivos de Desenvolvimento Sustentável",
+  "description": "Plataforma interativa dos 17 Objetivos de Desenvolvimento Sustentável (ODS) da ONU com guia prático, central de recursos oficiais, busca inteligente e assistente IA com Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
